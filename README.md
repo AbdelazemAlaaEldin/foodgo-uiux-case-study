@@ -13,23 +13,18 @@ FoodGo is a modern food delivery mobile application designed using Figma.
 
 ## Tools Used
 - Figma
-
-## Project Structure
-- assets/
-- screens/
-- prototype/
-- docs/
-
+  
+## Included Files
+- UI Screens
+- README Documentation
+- Prototype Link
+  
+## Screenshots
+<p align="center">
+  <img src="FoodGo.png" width="250"/>
+</p>
+  
 ## Prototype
 [View Prototype](https://www.figma.com/design/GX5zTkzU4iEhRO8leGsNhl/FoodGo?m=auto&t=APA4DOX3Z8cE6Flr-6)
 
-## screen shots
-![Home](home.png)
 
-![Menu](menu.png)
-
-![Details](details.png)
-
-![Payment](payment.png)
-
-![Profile](profile.png)
