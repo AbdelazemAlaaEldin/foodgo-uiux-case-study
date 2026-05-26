@@ -1,7 +1,7 @@
 # 🍔 FoodGo - Food Delivery UI/UX
 
 <p align="center">
-  <img src="FoodGo.png" width="550"/>
+  <img src="FoodGo.png" width="400"/>
 </p>
 
 <p align="center">
@@ -10,19 +10,12 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
-FoodGo is a modern food delivery mobile application focused on creating a smooth and intuitive ordering experience with a clean and user-friendly interface.
-
-The project was designed entirely in Figma with attention to:
-- Visual hierarchy
-- User flow
-- Mobile responsiveness
-- Simplicity and usability
-
+FoodGo is a UI/UX case study designed in Figma with a focus on simplicity, usability, and clean visual design for a modern food ordering experience.
 ---
 
-## 🚀 Features
+## Features
 
 - Modern mobile interface
 - Fast food browsing
@@ -34,7 +27,7 @@ The project was designed entirely in Figma with attention to:
 
 ---
 
-## 🎯 Design Goals
+## Design Goals
 
 - Create a simple and intuitive user experience
 - Improve food browsing flow
@@ -44,7 +37,7 @@ The project was designed entirely in Figma with attention to:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Figma
 - Auto Layout
@@ -52,24 +45,8 @@ The project was designed entirely in Figma with attention to:
 
 ---
 
-## 📱 Screenshots
-
-<p align="center">
-  <img src="FoodGo.png" width="500"/>
-</p>
-
----
-
 ## 🔗 Prototype
 
 [View Interactive Prototype](https://www.figma.com/design/GX5zTkzU4iEhRO8leGsNhI/FoodGo?m=auto&t=APA4DOX3Z8cE6FIr-6)
-
----
-
-## 👨‍🎨 Designer
-
-**Abdelazem Alaa Eldin**
-
-UI/UX Designer passionate about creating modern and user-friendly digital experiences.
 
 
